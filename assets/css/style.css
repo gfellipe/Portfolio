@@ -373,6 +373,7 @@ section {
   transform: translateY(-5rem);
   opacity: 0;
   transition-delay: 0.3s;
+  text-align: center;
 }
 
 .portfolio .box-container .box:hover .content h3 {
